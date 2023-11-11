@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+		 <typeAlias alias="addressDTO" type="kr.co.dong.DTO.addressDTO"/>
+	     <typeAlias alias="boardDTO" type="kr.co.dong.DTO.boardDTO"/>
+	     <typeAlias alias="cartDTO" type="kr.co.dong.DTO.cartDTO"/>
+	     <typeAlias alias="codetableDTO" type="kr.co.dong.DTO.codetableDTO"/>
+	     <typeAlias alias="dr_reviewDTO" type="kr.co.dong.DTO.dr_reviewDTO"/>
+	     <typeAlias alias="dv_orderDTO" type="kr.co.dong.DTO.dv_orderDTO"/>
+	     <typeAlias alias="help_boardDTO" type="kr.co.dong.DTO.help_boardDTO"/>
+	     <typeAlias alias="itemDTO" type="kr.co.dong.DTO.itemDTO"/>
+	     <typeAlias alias="itemreturnDTO" type="kr.co.dong.DTO.itemreturnDTO"/>
+	     <typeAlias alias="iv_itemDTO" type="kr.co.dong.DTO.iv_itemDTO"/>
+	     <typeAlias alias="memberDTO" type="kr.co.dong.DTO.memberDTO"/>
+	     <typeAlias alias="mylistDTO" type="kr.co.dong.DTO.mylistDTO"/>
+	     <typeAlias alias="ratinglistDTO" type="kr.co.dong.DTO.ratinglistDTO"/>
+	     <typeAlias alias="reviewDTO" type="kr.co.dong.DTO.reviewDTO"/>	 
+	      <typeAlias alias="imgDTO" type="kr.co.dong.DTO.imgDTO"/>
+	      <typeAlias alias="dv_order_itemDTO" type="kr.co.dong.DTO.dv_order_itemDTO"/>	     
+	     <typeAlias alias="jointest" type="kr.co.dong.DTO.jointest"/>
+	</typeAliases>
+	
+</configuration>
